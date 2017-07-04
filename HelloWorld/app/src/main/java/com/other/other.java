@@ -14,5 +14,6 @@ public class other {
 
     private void new_other(){
         long a = System.currentTimeMillis()/1000;
+        long b = System.currentTimeMillis()/1000;
     }
 }

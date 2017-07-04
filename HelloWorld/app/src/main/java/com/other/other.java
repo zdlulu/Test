@@ -9,6 +9,10 @@ import android.util.Log;
 public class other {
 
     public other(){
-        Log.i("pther","other");
+        Log.i("other","other");
+    }
+
+    private void new_other(){
+        long a = System.currentTimeMillis()/1000;
     }
 }
